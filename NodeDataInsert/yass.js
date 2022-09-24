@@ -8,13 +8,13 @@
     };
     "repository"; {
         "type"; "git",
-            "url"; "git+https://github.com/Sadi94/ASP.Net.git"
+            "url"; "git+https://github.com/Sadi94/NodeJs-practice.git"
     };
     "keywords";[],
         "author"; "",
             "license"; "ISC",
                 "bugs"; {
-        "url"; "https://github.com/Sadi94/ASP.Net/issues"
+        "url"; "https://github.com/Sadi94/NodeJs-practice.git"
     };
-    "homepage"; "https://github.com/Sadi94/ASP.Net#readme"
+    "homepage"; "https://github.com/Sadi94/NodeJs-practice.git"
 }
